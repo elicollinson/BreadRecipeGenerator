@@ -1,0 +1,11 @@
+C:\Users\Student\BreadRecipeGenerator\BreadRecipeGenerator\BreadRecipeGeneratorClient\bin\Debug\netcoreapp2.2\BreadRecipeGeneratorClient.deps.json
+C:\Users\Student\BreadRecipeGenerator\BreadRecipeGenerator\BreadRecipeGeneratorClient\bin\Debug\netcoreapp2.2\BreadRecipeGeneratorClient.runtimeconfig.json
+C:\Users\Student\BreadRecipeGenerator\BreadRecipeGenerator\BreadRecipeGeneratorClient\bin\Debug\netcoreapp2.2\BreadRecipeGeneratorClient.runtimeconfig.dev.json
+C:\Users\Student\BreadRecipeGenerator\BreadRecipeGenerator\BreadRecipeGeneratorClient\bin\Debug\netcoreapp2.2\BreadRecipeGeneratorClient.dll
+C:\Users\Student\BreadRecipeGenerator\BreadRecipeGenerator\BreadRecipeGeneratorClient\bin\Debug\netcoreapp2.2\BreadRecipeGeneratorClient.pdb
+C:\Users\Student\BreadRecipeGenerator\BreadRecipeGenerator\BreadRecipeGeneratorClient\obj\Debug\netcoreapp2.2\BreadRecipeGeneratorClient.csprojAssemblyReference.cache
+C:\Users\Student\BreadRecipeGenerator\BreadRecipeGenerator\BreadRecipeGeneratorClient\obj\Debug\netcoreapp2.2\BreadRecipeGeneratorClient.csproj.CoreCompileInputs.cache
+C:\Users\Student\BreadRecipeGenerator\BreadRecipeGenerator\BreadRecipeGeneratorClient\obj\Debug\netcoreapp2.2\BreadRecipeGeneratorClient.AssemblyInfoInputs.cache
+C:\Users\Student\BreadRecipeGenerator\BreadRecipeGenerator\BreadRecipeGeneratorClient\obj\Debug\netcoreapp2.2\BreadRecipeGeneratorClient.AssemblyInfo.cs
+C:\Users\Student\BreadRecipeGenerator\BreadRecipeGenerator\BreadRecipeGeneratorClient\obj\Debug\netcoreapp2.2\BreadRecipeGeneratorClient.dll
+C:\Users\Student\BreadRecipeGenerator\BreadRecipeGenerator\BreadRecipeGeneratorClient\obj\Debug\netcoreapp2.2\BreadRecipeGeneratorClient.pdb
